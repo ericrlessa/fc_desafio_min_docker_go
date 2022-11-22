@@ -1,6 +1,6 @@
 # Show Full Cycle Rocks - Image less than 2 MB
 
-imagem no dockerhub: ericlessa/fc_desafio_min_docker_go
+dockerhub image: ericlessa/fc_desafio_min_docker_go
 
-exemplo:
+example:
     docker run --rm ericlessa/fc_desafio_min_docker_go
